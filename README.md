@@ -1,5 +1,4 @@
 # Simon Says Game
-Simon Says Game. Section 15 of https://www.udemy.com/course/the-complete-web-development-bootcamp .
 <hr>
 Fun play on the Simon Says game. Is your memory of sequences good? Come test how far you can go.<br>
 <strong>How to play</strong>
